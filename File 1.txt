@@ -1,2 +1,3 @@
 Initial file
 Added another line.
+Another line changed.
