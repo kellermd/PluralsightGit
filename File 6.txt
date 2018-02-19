@@ -1,0 +1,2 @@
+New file 6 that was supposed to be in v2
+Changes after the latest pull.
